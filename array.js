@@ -1,17 +1,7 @@
-const changeValue = function(val){
-    val = 100;
-};
+// const arr = Array('Apple','30');
+// console.log(arr);
 
-let x = 10;
-console.log(x);
-changeValue(x);
-console.log(x);
 
-const changeArrValue = function(val){
-    val[0] = 100;
-}
-
-let arr =[1,2,3];
-console.log(arr);
-changeArrValue(arr);
-console.log(arr);
+// const names = "Apple,Banana";
+// const Arra = Array(names.split(","));
+// console.log(Arra);
